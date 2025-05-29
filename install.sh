@@ -1,5 +1,6 @@
 #!/bin/bash
-# Installation Script
+# Installation Script for Admin Dashboard.
+# Not compulsory to run, but this sets up few things.
 
 # Check for root privileges
 if [ "$(id -u)" -ne 0 ]; then

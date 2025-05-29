@@ -1,5 +1,5 @@
 #!/bin/bash
-# System Administration Dashboard - Main Script
+# System Administration Dashboard
 
 
 # Load config files
