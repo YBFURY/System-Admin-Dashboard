@@ -1,5 +1,17 @@
 #!/bin/bash
-# System Administration Dashboard
+
+# ================================
+# System Admin Dashboard
+# Group 6
+# Members:
+# --------------------------------
+# Okakwu Israel - 2024/12955
+# Olaleye Samuel - 2024/13108
+# Celestine Udichukwu - 2024/13254
+# $Fadipe Oluwatomisona - 2024/13089
+# Peters Moyosoreoluwa - 2024/12925
+# ---------------------------------
+# ================================
 
 
 # Load config files
@@ -22,7 +34,7 @@ done
 # Main menu function
 main_menu() {
     clear
-    echo -e "${HEADER_COLOR}=== System Administration Dashboard ${VERSION} ==="
+    echo -e "${HEADER_COLOR}=== System Administration Dashboard ==="
     echo -e "Host: $(hostname)\t\tUser: $(whoami)"
     echo -e "============================================${RESET_COLOR}"
     
